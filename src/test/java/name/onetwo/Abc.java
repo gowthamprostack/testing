@@ -1,6 +1,6 @@
 package name.onetwo;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 public class Abc {
 
